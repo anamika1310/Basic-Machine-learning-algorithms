@@ -1,0 +1,7 @@
+langchain-classic
+langchain_community 
+langchainhub 
+chromadb 
+langchain 
+langchain-openai
+nltk
